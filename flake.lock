@@ -2,16 +2,18 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1638540433,
-        "narHash": "sha256-WiKCFavgAujqa+w0l72ikaNR4rT94npJd1jSSafuZjY=",
-        "owner": "NixOS",
+        "lastModified": 1638738845,
+        "narHash": "sha256-Ma3J6+TChvKA3A7V+h31C5SpJUphXZuz6gO4ikXF6M8=",
+        "owner": "mschwaig",
         "repo": "nixpkgs",
-        "rev": "3e892167eb50e66b8ef27d322392b10faa5921ce",
+        "rev": "6cb68bf2bcda64de9c7dcca762f091f67d6ee070",
         "type": "github"
       },
       "original": {
-        "id": "nixpkgs",
-        "type": "indirect"
+        "owner": "mschwaig",
+        "ref": "sd-image-determinism",
+        "repo": "nixpkgs",
+        "type": "github"
       }
     },
     "root": {
